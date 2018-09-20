@@ -1,0 +1,126 @@
+body {
+	text-align: center;
+	background-color:#E8C4B2;
+	margin: 0;
+}
+h1{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 450%; 
+	color: black;
+	margin: 0;
+}
+h2{
+
+	font-family: 'Kanit', sans-serif;
+	font-size: 220%;
+}
+a{
+	margin:0px 20px 0px 20px;
+	border-bottom: 2px solid transparent;
+}
+a:hover {
+	border-bottom: 2px solid white;
+
+}
+img{
+	margin: 40px 8px 0px 8px;
+}
+header{
+	background-color: #F15B31;
+	color: white;
+	padding: 30px 20px 30px 20px
+}
+nav{
+	background-color: #00A6B3;
+	color: white;
+	padding: 20px 0px 20px 0px;
+
+}
+main{
+	width: 850p;
+	margin: 35px auto 35px auto;
+}
+footer{
+	text-transform: uppercase;
+	padding: 0px 20px 0px 20px;
+	background-color:#0D2C40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+
+
+}
+.linkedin{
+	text-decoration: none;
+	color: white;
+	display: inline-block;
+}
+.name{
+	color:#F15B31;
+	font-weight:700;
+
+}
+.copyright{
+	float: left;
+	font-family: 'Kanit', sans-serif;
+}
+.message{
+	float: right;
+	font-family: 'Kanit', sans-serif;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+.meorme{
+	text-shadow: 2px 2px #F15B31; 
+}
+.wrapperh{
+	background-color:#c0dec5;
+	border: 10px black solid;
+	margin: 0 auto;
+	width: 75%;
+
+}
+.wrapperamg{
+	float: left;
+	width: 46%;
+	margin: 2%;
+}
+.wrapperam{
+	float: right;
+	width: 46%;
+	margin: 2%;
+}
+.wrapperm{
+
+	width: 75%;
+	margin: 0 auto;
+}
+.wrapperf{
+	width: 75%;
+	margin: 0 auto;
+}
+.navh{ 
+	font-family: 'Roboto Mono', monospace;
+	font-size: 150%;
+	text-decoration: none;	
+	color: black;
+}
+.instructions{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 120%; 
+}
+.meh{
+	font-family: 'Kosugi Maru', sans-serif; 
+   
+}
+.mep{
+	font-family: 'Gamja Flower', cursive;
+   
+}
